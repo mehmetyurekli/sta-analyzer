@@ -49,3 +49,4 @@ lexical analyzer for a language called star.
 9- Comments: Anything between /* and */ is a comment.
 •	If a comment fails to terminate before the file end, there should be a lexical error issued.
 •	Comments are just like blank space and they create no tokens.
+
